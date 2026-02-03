@@ -4,4 +4,10 @@ function greet(name) {
 
 console.log(greet("Copilot"));
 // write a function that adds two numbers
-function add(
+function add( a, b) {
+  return a + b;
+} 
+
+console.log(add(2, 3));
+
+
